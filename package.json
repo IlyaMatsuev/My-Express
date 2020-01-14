@@ -1,0 +1,14 @@
+{
+  "name": "@ilya-matsuev/my-express",
+  "version": "1.1.5",
+  "description": "Module provides some main functionality of the famous express module using native http server",
+  "author": {
+    "name": "Ilya Matsuev",
+    "email": "mirotvorec542546@gmail.com"
+  },
+  "main": "MyExpress.js",
+  "license": "ISC",
+  "dependencies": {
+    "fast-xml-parser": "^3.15.1"
+  }
+}
